@@ -10,7 +10,7 @@ Open terminal and type:
 node /path/to/100-quiz.js
 */
 
-/* Questions */
+/* Questions, */
 
 /*
 ==========================
